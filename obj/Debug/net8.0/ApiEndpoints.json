@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "MyEncryptionApp.Controllers.DataController",
+    "Method": "Post",
+    "RelativePath": "api/Data",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MyEncryptionApp.Models.EncryptRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
